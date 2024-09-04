@@ -1,4 +1,4 @@
-<h1  align="center">soundy-js</small></h1>
+<h1  align="center">🔊 soundy-js 🔊</small></h1>
 
   
 
@@ -21,7 +21,7 @@
 [`Here`](https://ironhamma.github.io/sound_visual_dev/) you can see some visualizaitons done by us.
   
 
-## Get started 👩‍🏫
+## Get started 🎶
 ### Installation
 Run `npm install soundy-js`
 
