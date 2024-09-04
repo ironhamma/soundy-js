@@ -1,11 +1,12 @@
 {
   "name": "soundy-js",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Audio visualization library for React",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src --out-dir lib"
+    "build": "babel src --out-dir lib",
+    "build:vis": "babel visualizers --out-dir lib/visualizers"
   },
   "repository": {
     "type": "git",
