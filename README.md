@@ -34,18 +34,18 @@ import { SoundyProvider } from  "soundy-js";
 function  Container() {
 const  playerRef  =  useRef(null);
 
-	return (
-		<>
-			<audio
-				id="audioPlayer"
-				src="your_audio.mp3"
-				ref={playerRef}>
-			</audio>
-			<SoundyProvider  playerRef={playerRef}>
-				<YourVisualization/>
-			</SoundyProvider>
-		</>
-	);
+return (
+	<div>
+		<audio
+			id="audioPlayer"
+			src="your_audio.mp3"
+			ref={playerRef}>
+		</audio>
+		<SoundyProvider  playerRef={playerRef}>
+			<YourVisualization/>
+		</SoundyProvider>
+	</div>
+);
 }
 ```
  **Visualizer:**
@@ -59,11 +59,11 @@ const {
 	getMidFrequencyData, 
 	getHighFrequencyData
 } =  useSoundy();
-	return (
-		<>
-		... your visualization elements here	
-		</>
-	);
+return (
+	<div>
+	... your visualization elements here	
+	</div>
+);
 };
   ```
 
@@ -78,16 +78,16 @@ const  YourVisualization = () => {
 const playerRef = useRef(null);
 const { getLowFrequencyData, getMidFrequencyData, getHighFrequencyData } =
     useAudioFeatures(playerRef);
-	return (
-		<>
-			<audio
-				id="audioPlayer"
-				src="your_audio.mp3"
-				ref={playerRef}>
-			</audio>
-			... your visualization elements here	
-		</>
-	);
+return (
+	<div>
+		<audio
+			id="audioPlayer"
+			src="your_audio.mp3"
+			ref={playerRef}>
+		</audio>
+		... your visualization elements here	
+	</div>
+);
 };
   ```
 
