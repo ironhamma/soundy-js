@@ -1,6 +1,6 @@
 {
   "name": "soundy-js",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Audio visualization library for React",
   "main": "lib/index.js",
   "scripts": {
