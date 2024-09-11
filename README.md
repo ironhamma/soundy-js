@@ -18,8 +18,9 @@
 - Usable via React hook and React Provider
 
 ### Docs and Examples
-[`Here`](https://ironhamma.github.io/soundy-js/) you can find the documentation of the project.
-[`Here`](https://ironhamma.github.io/soundy-js/examples/) you can see some visualizaitons done by us.
+[`Here`](https://ironhamma.github.io/soundy-js/) you can find the **documentation** of the project.
+
+[`Here`](https://ironhamma.github.io/soundy-js/examples/) you can see some **visualizaitons** done by us.
   
 
 ## Get started 🎶
