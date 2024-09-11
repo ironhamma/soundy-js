@@ -17,8 +17,9 @@
 - Blazingly fast feature retreival
 - Usable via React hook and React Provider
 
-### Demo
-[`Here`](https://ironhamma.github.io/sound_visual_dev/) you can see some visualizaitons done by us.
+### Docs and Examples
+[`Here`](https://ironhamma.github.io/soundy-js/) you can find the documentation of the project.
+[`Here`](https://ironhamma.github.io/soundy-js/examples/) you can see some visualizaitons done by us.
   
 
 ## Get started 🎶
