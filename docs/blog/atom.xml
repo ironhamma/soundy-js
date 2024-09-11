@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ironhamma.github.io/soundy-js/blog</id>
-    <title>Soundy.js Blog</title>
+    <title>Soundy-js Blog</title>
     <updated>2024-09-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ironhamma.github.io/soundy-js/blog"/>
-    <subtitle>Soundy.js Blog</subtitle>
+    <subtitle>Soundy-js Blog</subtitle>
     <icon>https://ironhamma.github.io/soundy-js/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Upcoming planned features]]></title>
