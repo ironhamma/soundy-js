@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ironhamma.github.io/soundy/blog</id>
+    <title>Soundy.js Blog</title>
+    <updated>2024-09-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ironhamma.github.io/soundy/blog"/>
+    <subtitle>Soundy.js Blog</subtitle>
+    <icon>https://ironhamma.github.io/soundy/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Upcoming planned features]]></title>
+        <id>https://ironhamma.github.io/soundy/blog/upcoming-features</id>
+        <link href="https://ironhamma.github.io/soundy/blog/upcoming-features"/>
+        <updated>2024-09-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There might be new features coming in the future.]]></summary>
+        <content type="html"><![CDATA[<p>There might be new features coming in the future.</p>
+<p>Feel free to publish any feature request :)</p>]]></content>
+        <author>
+            <name>Szabó Benedek</name>
+            <uri>https://github.com/ironhamma</uri>
+        </author>
+        <category label="Features" term="Features"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[soundy-js just launched!]]></title>
+        <id>https://ironhamma.github.io/soundy/blog/launch</id>
+        <link href="https://ironhamma.github.io/soundy/blog/launch"/>
+        <updated>2024-09-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yay! Soundy-js version 0.5 just launched. Keep hanging for future releases, fixes and new features.]]></summary>
+        <content type="html"><![CDATA[<p>Yay! Soundy-js version 0.5 just launched. Keep hanging for future releases, fixes and new features.</p>
+<p>Feel free to play around and explore the power of audio visualization.</p>]]></content>
+        <author>
+            <name>Szabó Benedek</name>
+            <uri>https://github.com/ironhamma</uri>
+        </author>
+        <category label="Launch" term="Launch"/>
+    </entry>
+</feed>

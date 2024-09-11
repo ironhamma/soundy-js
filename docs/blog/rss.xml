@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Soundy.js Blog</title>
+        <link>https://ironhamma.github.io/soundy/blog</link>
+        <description>Soundy.js Blog</description>
+        <lastBuildDate>Thu, 05 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Upcoming planned features]]></title>
+            <link>https://ironhamma.github.io/soundy/blog/upcoming-features</link>
+            <guid>https://ironhamma.github.io/soundy/blog/upcoming-features</guid>
+            <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[There might be new features coming in the future.]]></description>
+            <content:encoded><![CDATA[<p>There might be new features coming in the future.</p>
+<p>Feel free to publish any feature request :)</p>]]></content:encoded>
+            <category>Features</category>
+        </item>
+        <item>
+            <title><![CDATA[soundy-js just launched!]]></title>
+            <link>https://ironhamma.github.io/soundy/blog/launch</link>
+            <guid>https://ironhamma.github.io/soundy/blog/launch</guid>
+            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Yay! Soundy-js version 0.5 just launched. Keep hanging for future releases, fixes and new features.]]></description>
+            <content:encoded><![CDATA[<p>Yay! Soundy-js version 0.5 just launched. Keep hanging for future releases, fixes and new features.</p>
+<p>Feel free to play around and explore the power of audio visualization.</p>]]></content:encoded>
+            <category>Launch</category>
+        </item>
+    </channel>
+</rss>
