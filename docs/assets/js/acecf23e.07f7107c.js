@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_try=self.webpackChunkdocusaurus_try||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/soundy/blog","blogTitle":"Blog","authorsListPath":"/soundy/blog/authors"}')}}]);
